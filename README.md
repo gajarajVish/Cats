@@ -37,3 +37,6 @@ zipp==3.15.0
 
 ```
 
+### Acknowledgements
+Dataset aquired via kaggle: https://www.kaggle.com/datasets/warcoder/cat-breeds-details
+
